@@ -6,7 +6,7 @@ This tool helps fintech analysts quickly review and compare 2024 10-K filings fr
 
 Example questions it can answer include:
 - 1. What are the sources of revenue for Toast?
-- 2. What are business risks facing Fiserve
+- 2. What are business risks facing Fiserve?
 - 3. Compare PayPal's strategic initiatives with Square's strategic initiatives.
 
 ---
